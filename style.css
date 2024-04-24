@@ -1,0 +1,14 @@
+
+/* Style pour la photo ronde et de petite taille */
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  
+}
+
+.bg-first-column {
+    background-color: #F7F6CF; /* Couleur d'arrière-plan de la première colonne */
+}
